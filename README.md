@@ -1,0 +1,2 @@
+# AwsRestServicies
+AWSを使用してWeb API式に何かしらのデータをJSONで返却するアプリケーションサーバー
